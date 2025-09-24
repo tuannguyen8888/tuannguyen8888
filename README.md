@@ -70,7 +70,7 @@ I'm a seasoned software developer and project manager with **over 15 years of pr
 
 ### 🔒 **Private Repository Access**
 
-**For Recruiters & Employers:** If you'd like to review my private repositories for hiring purposes, please send me a request at **tuannguyen8888@gmail.com** with:
+**For Recruiters & Employers:** If you'd like to review my private repositories for hiring purposes, please send me a request at **tuannguyenvo8888@gmail.com** with:
 - Your company name and position
 - Purpose of the review (hiring/interview process)
 - Specific repositories you'd like to access
@@ -114,7 +114,7 @@ I'll be happy to provide temporary access to showcase my work and technical capa
 ### 📫 Let's Connect!
 
 - 💼 **Portfolio**: [GitHub Profile](https://github.com/tuannguyen8888)
-- 📧 **Email**: tuannguyen8888@gmail.com
+- 📧 **Email**: tuannguyenvo8888@gmail.com
 - 📱 **Phone**: (978) 259-2997
 - 📍 **Location**: Lowell, Massachusetts, USA
 - 🎯 **Work Authorization**: Legal Permanent Resident (Green Card - 10 years)
