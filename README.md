@@ -35,32 +35,49 @@ I'm a seasoned software developer and project manager with **over 15 years of pr
 ### 🌟 Portfolio Projects
 
 #### 🏥 Healthcare & Medical Systems
-- **[Yersin Health Check System](https://github.com/tuannguyen8888/yersin-health-check)** - Comprehensive health monitoring and management system with patient portal integration
-- **[Yersin Health API](https://github.com/tuannguyen8888/yersin-api)** - Backend API for medical and healthcare system integration
+- **[Yersin Health Check System](https://github.com/tuannguyen8888/yersin-health-check)** 🔒 **PRIVATE** - Comprehensive health monitoring and management system with patient portal integration
+- **[Yersin Health API](https://github.com/tuannguyen8888/yersin-api)** 🔒 **PRIVATE** - Backend API for medical and healthcare system integration
 
 #### 🏪 Business & Retail Management
-- **[VNJ Gold Sales Management System](https://github.com/tuannguyen8888/vnj-sale-manage)** - Comprehensive gold sales management with Laravel and CRUDBooster, featuring real-time inventory and automated payroll
-- **[Jewelry Store Management](https://github.com/tuannguyen8888/jewelry)** - Wholesale gold inventory & credit management system for jewelry businesses
-- **[Kim Van Phuoc Sales System](https://github.com/tuannguyen8888/sales.kimvanphuoc.com)** - Sales and customer management application for retail business
+- **[VNJ Gold Sales Management System](https://github.com/tuannguyen8888/vnj-sale-manage)** 🌐 **PUBLIC** - Comprehensive gold sales management with Laravel and CRUDBooster, featuring real-time inventory and automated payroll
+- **[Jewelry Store Management](https://github.com/tuannguyen8888/jewelry)** 🌐 **PUBLIC** - Wholesale gold inventory & credit management system for jewelry businesses
+- **[Kim Van Phuoc Sales System](https://github.com/tuannguyen8888/sales.kimvanphuoc.com)** 🔒 **PRIVATE** - Sales and customer management application for retail business
 
 #### 💰 Fintech & Financial Systems
-- **[Loan Referral API](https://github.com/tuannguyen8888/loan-referral-api)** - Backend API for loan referral system with financial partner integration
-- **[eFund Investment API](https://github.com/tuannguyen8888/efund-api)** - Backend API for electronic investment fund system
-- **[eFund Management Portal](https://github.com/tuannguyen8888/efund-portal)** - Investment fund management portal for financial operations
+- **[Loan Referral API](https://github.com/tuannguyen8888/loan-referral-api)** 🌐 **PUBLIC** - Backend API for loan referral system with financial partner integration
+- **[eFund Investment API](https://github.com/tuannguyen8888/efund-api)** 🔒 **PRIVATE** - Backend API for electronic investment fund system
+- **[eFund Management Portal](https://github.com/tuannguyen8888/efund-portal)** 🔒 **PRIVATE** - Investment fund management portal for financial operations
 
 #### 🎫 Ticketing & Event Management
-- **[eTicket API](https://github.com/tuannguyen8888/eticket-api)** - Backend API for electronic ticketing and booking system
-- **[eTicket Public Interface](https://github.com/tuannguyen8888/eticket-public)** - Public interface for electronic ticketing system
-- **[eTicket Management Portal](https://github.com/tuannguyen8888/eticket-portal)** - Management portal for electronic ticketing system
+- **[eTicket API](https://github.com/tuannguyen8888/eticket-api)** 🔒 **PRIVATE** - Backend API for electronic ticketing and booking system
+- **[eTicket Public Interface](https://github.com/tuannguyen8888/eticket-public)** 🔒 **PRIVATE** - Public interface for electronic ticketing system
+- **[eTicket Management Portal](https://github.com/tuannguyen8888/eticket-portal)** 🔒 **PRIVATE** - Management portal for electronic ticketing system
 
 #### 🎓 Education & Learning Platforms
-- **[Nova College Backend API](https://github.com/tuannguyen8888/nova-college-backend)** - Backend API for school management system
-- **[Nova College Frontend](https://github.com/tuannguyen8888/nova-college-frontend)** - Frontend interface for school management system
-- **[Intensive Exam Preparation Platform](https://github.com/tuannguyen8888/luyenthicaptoc.com)** - Online learning platform for exam preparation with interactive features
+- **[Nova College Backend API](https://github.com/tuannguyen8888/nova-college-backend)** 🌐 **PUBLIC** - Backend API for school management system
+- **[Nova College Frontend](https://github.com/tuannguyen8888/nova-college-frontend)** 🌐 **PUBLIC** - Frontend interface for school management system
+- **[Intensive Exam Preparation Platform](https://github.com/tuannguyen8888/luyenthicaptoc.com)** 🌐 **PUBLIC** - Online learning platform for exam preparation with interactive features
 
 #### 🛠️ Utilities
-- **[Halcyon ProQuoter](https://github.com/tuannguyen8888/halcyon-proquoter)** - Professional quotation generation application for mechanical engineering
+- **[Halcyon ProQuoter](https://github.com/tuannguyen8888/halcyon-proquoter)** 🔒 **PRIVATE** - Professional quotation generation application for mechanical engineering
 
+#### 📊 Professional & Portfolio
+- **[My Profile for Work](https://github.com/tuannguyen8888/my-profile-for-work)** 🔒 **PRIVATE** - Professional portfolio and CV optimization project for US job market
+- **[Report System](https://github.com/tuannguyen8888/report)** 🌐 **PUBLIC** - Reporting and analytics system
+- **[MRS (Management Reporting System)](https://github.com/tuannguyen8888/MRS)** 🌐 **PUBLIC** - Management reporting system for business intelligence
+
+---
+
+### 🔒 **Private Repository Access**
+
+**For Recruiters & Employers:** If you'd like to review my private repositories for hiring purposes, please send me a request at **tuannguyen8888@gmail.com** with:
+- Your company name and position
+- Purpose of the review (hiring/interview process)
+- Specific repositories you'd like to access
+
+I'll be happy to provide temporary access to showcase my work and technical capabilities.
+
+---
 
 ### 📊 GitHub Stats
 
