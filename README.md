@@ -61,11 +61,6 @@ I'm a seasoned software developer and project manager with **over 15 years of pr
 #### 🛠️ Utilities
 - **[Halcyon ProQuoter](https://github.com/tuannguyen8888/halcyon-proquoter)** 🔒 **PRIVATE** - Professional quotation generation application for mechanical engineering
 
-#### 📊 Professional & Portfolio
-- **[My Profile for Work](https://github.com/tuannguyen8888/my-profile-for-work)** 🔒 **PRIVATE** - Professional portfolio and CV optimization project for US job market
-- **[Report System](https://github.com/tuannguyen8888/report)** 🌐 **PUBLIC** - Reporting and analytics system
-- **[MRS (Management Reporting System)](https://github.com/tuannguyen8888/MRS)** 🌐 **PUBLIC** - Management reporting system for business intelligence
-
 ---
 
 ### 🔒 **Private Repository Access**
