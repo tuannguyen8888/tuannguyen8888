@@ -110,7 +110,7 @@ I'll be happy to provide temporary access to showcase my work and technical capa
 
 - 💼 **Portfolio**: [GitHub Profile](https://github.com/tuannguyen8888)
 - 📧 **Email**: tuannguyenvo8888@gmail.com
-- 📱 **Phone**: (978) 259-2997
+- 📱 **Phone**: (774) 567-0698
 - 📍 **Location**: Lowell, Massachusetts, USA
 - 🎯 **Work Authorization**: Legal Permanent Resident (Green Card - 10 years)
 
@@ -118,6 +118,7 @@ I'll be happy to provide temporary access to showcase my work and technical capa
 
 - **🇺🇸 US-Based Developer**: Currently residing in Massachusetts
 - **🇻🇳 Vietnamese Language Expert**: Native speaker - perfect for Vietnamese market projects
+- **🇺🇸 English Proficiency**: Advanced level - fluent in professional communication
 - **🤖 AI-Powered Efficiency**: Modern AI tools for faster, higher-quality results
 - **📈 Proven Track Record**: 15+ years delivering successful enterprise projects
 - **🏗️ System Architecture Expert**: Complex, large-scale system design experience
