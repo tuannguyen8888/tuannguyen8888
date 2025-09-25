@@ -110,7 +110,7 @@ I'll be happy to provide temporary access to showcase my work and technical capa
 
 - 💼 **Portfolio**: [GitHub Profile](https://github.com/tuannguyen8888)
 - 📧 **Email**: tuannguyenvo8888@gmail.com
-- 📱 **Phone**: (978) 254-0549
+- 📱 **Phone**: (774) 567-0698
 - 📍 **Location**: Lowell, Massachusetts, USA
 - 🎯 **Work Authorization**: Legal Permanent Resident (Green Card - 10 years)
 
